@@ -1,7 +1,7 @@
 package com.akexorcist.recyclerviewwithitemtouchhelper
 
-import android.support.v7.widget.RecyclerView
 import android.view.View
+import androidx.recyclerview.widget.RecyclerView
 import kotlinx.android.synthetic.main.view_android_info.view.*
 
 /**
