@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ItemTouchHelper on RecyclerView</string>
+    <string name="app_name">RecyclerViewWithItemTouchHelper</string>
     <string name="release_date">Release Date : %1$s</string>
     <string name="api_level">(API %1$d)</string>
     <string name="android_version">Android %1$s</string>

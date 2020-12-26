@@ -1,9 +1,5 @@
 package com.akexorcist.recyclerviewwithitemtouchhelper
 
-/**
- * Created by Akexorcist on 26/12/2017 AD.
- */
-
 object InfoGenerator {
     fun createAndroidVersionInfo(): MutableList<Android> {
         return arrayListOf(
